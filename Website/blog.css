@@ -1,0 +1,42 @@
+.page {
+    width: 50%;
+    margin: 0% 25% 0% 25%;
+    height: 100%
+}
+
+.image {
+    width: 100%;
+    
+}
+
+.blog {
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.blog_heading {
+    font-size: 25px;
+    float: left;
+}
+
+.writing {
+    float: left;
+}
+
+
+
+.blog_writing {
+    font-size: 15px;
+    width: 100%;
+    display: inherit;
+    color: grey;
+/*    margin: 5% 0 0 5%;*/
+
+}
+
+.t-box {
+    height: 40%;
+    overflow: scroll;
+}

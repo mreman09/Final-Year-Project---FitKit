@@ -1,0 +1,52 @@
+.p_b {
+    height: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.b1 {
+     background-image: url("Images/StepTrack/1.jpg");
+     opacity: 0.9;
+}
+
+.b2 {
+     background-image: url(Images/StepTrack/2.jpg);
+     opacity: 0.9;
+}
+
+.b3 {
+    background-image: url(Images/StepTrack/4.png);
+    opacity: 1;
+}
+
+
+.post { 
+    margin: 17% 10% 0% 7%; ;
+    float: left;
+    width: 25%;
+    color: white;
+    opacity: 0.5;
+}
+
+
+.post_2 { 
+/*  margin: 17% 10% ;*/
+  float: right;
+  color: white;
+  width: 25%;
+  padding: 210px 100px;
+}
+
+.heading {
+font-size: 35px;
+}
+
+.writing {
+    font-size: 20px;
+    text-transform: none;
+    opacity: 100%;
+    color: white;
+}
+
