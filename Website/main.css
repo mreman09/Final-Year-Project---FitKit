@@ -1,5 +1,5 @@
 .i1 {
-    background-image: url("Images/StepTrack/indexpic.jpg");
+    background-image: url("Images/Fitkit/indexpic.jpg");
     height: 100%;
 /*    background-attachment: fixed;*/
     background-position: center;
@@ -100,22 +100,3 @@ a:hover {
 }
 
 
-/*--------------------------- MOBILE VERSION-----------------------------------------*/
-
-@media screen and (max-width: 900px) {   
-
-    .burger-nav{
-        display:block;
-        position: fixed;
-        height: 40px;
-        width: 100%;
-        background: url(Images/Pictures1/burger.png) no-repeat 98% center;
-        background-color: yellow;
-        cursor: pointer;
-    }
-    
-    
-.nav_bar {
-        display: none;
-    }
-}

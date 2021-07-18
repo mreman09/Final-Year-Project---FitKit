@@ -4,30 +4,38 @@
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+    
 }
 
 .b1 {
-     background-image: url("Images/StepTrack/1.jpg");
-     opacity: 0.9;
+     background-image: urL("Images/Fitkit/1.png");
+     
 }
 
 .b2 {
-     background-image: url(Images/StepTrack/2.jpg);
+     background-image: url(Images/Fitkit/Conceptshoe.jpg);
      opacity: 0.9;
 }
 
 .b3 {
-    background-image: url(Images/StepTrack/4.png);
+    background-image: url(Images/Fitkit/4.png);
     opacity: 1;
 }
 
+.b4{
+    background-image: url(Images/Fitkit/Founders.png)
+}
+
+.b5{
+ 
+  background-image: url(Images/Fitkit/company.jpg);
+}
 
 .post { 
-    margin: 17% 10% 0% 7%; ;
+    margin: 13% 10% 0% 7%; 
     float: left;
     width: 25%;
-    color: white;
-    opacity: 0.5;
+    
 }
 
 
@@ -36,17 +44,39 @@
   float: right;
   color: white;
   width: 25%;
-  padding: 210px 100px;
+  padding: 210px 150px;
+  
 }
 
+.post_3 { 
+    
+    margin: 17% 10% 0% 7%; ;
+    float: left;
+    width: 25%;
+    color: white;
+  
+}
+
+
 .heading {
-font-size: 35px;
+    font-size: 35px;
+    
 }
 
 .writing {
     font-size: 20px;
     text-transform: none;
     opacity: 100%;
-    color: white;
+    color: black;
 }
 
+.b6 {
+    background-image: url(Images/Fitkit/Timeline.png);
+}
+
+
+
+
+.op {
+    opacity: 0.7;
+}
